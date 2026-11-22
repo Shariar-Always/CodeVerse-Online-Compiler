@@ -96,7 +96,7 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-3 mt-2">
               <a
-                href="https://github.com/Shariar-Ahamed"
+                href="https://github.com/Shariar-Always/CodeVerse-Online-Compiler"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 rounded-lg border border-[var(--border-color)] flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:border-indigo-500/50 bg-[var(--bg-tertiary)]/30 hover:bg-[var(--bg-tertiary)] transition-all duration-200"

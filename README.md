@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/Shariar-Ahamed/CodeVerse-Online-Compiler">
-  <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/CodeVerse-Online-Compiler">
-  <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/CodeVerse-Online-Compiler">
+  <img src="https://img.shields.io/github/license/Shariar-Always/CodeVerse-Online-Compiler">
+  <img src="https://img.shields.io/github/repo-size/Shariar-Always/CodeVerse-Online-Compiler">
+  <img src="https://img.shields.io/github/last-commit/Shariar-Always/CodeVerse-Online-Compiler">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Shariar-Ahamed/CodeVerse-Online-Compiler?style=social">
-  <img src="https://img.shields.io/github/forks/Shariar-Ahamed/CodeVerse-Online-Compiler?style=social">
+  <img src="https://img.shields.io/github/stars/Shariar-Always/CodeVerse-Online-Compiler?style=social">
+  <img src="https://img.shields.io/github/forks/Shariar-Always/CodeVerse-Online-Compiler?style=social">
 </p>
 
 <p align="center">
@@ -128,4 +128,4 @@ If you require instant executions, you can configure your own self-hosted Docker
 
 ## 📄 License
 
-This project is licensed under the terms of the [MIT License](https://github.com/Shariar-Ahamed/CodeVerse-Online-Compiler/blob/main/LICENSE).
+This project is licensed under the terms of the [MIT License](https://github.com/Shariar-Always/CodeVerse-Online-Compiler/blob/main/LICENSE).
