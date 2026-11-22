@@ -2,7 +2,7 @@
 <h1 align="center">CodeVerse — Online Compiler & Live Web Editor 🚀</h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/65fGfd62/New-Project.png" alt="CodeVerse Banner">
+  <img src="public/banner.png" alt="CodeVerse Banner">
 </p>
 
 ---
