@@ -112,7 +112,7 @@ export default function Footer() {
                 <i className="fab fa-twitter text-sm"></i>
               </a>
               <a
-                href="https://www.shariarahamed.me/"
+                href="https://www.shariarahamed.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 rounded-lg border border-[var(--border-color)] flex items-center justify-center text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:border-indigo-500/50 bg-[var(--bg-tertiary)]/30 hover:bg-[var(--bg-tertiary)] transition-all duration-200"
@@ -229,7 +229,7 @@ export default function Footer() {
             <span>
               Developed by{' '}
               <a
-                href="https://www.shariarahamed.me/"
+                href="https://www.shariarahamed.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:underline text-[var(--text-secondary)]"
